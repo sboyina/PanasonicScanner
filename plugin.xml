@@ -12,7 +12,7 @@
 			</feature>
 		</config-file>
 		<source-file src="src/android/PanasonicScanner.java" target-dir="src/PanasonicScanner/PanasonicScanner" />
-		<source-file src="src/libs/Toughpad.jar" target-dir="libs" />
+		<source-file src="src/libs/Toughpad.jar" target-dir="app/libs" />
 	</platform>
 	<platform name="windows">
 		<js-module src="src/windows/PanasonicScannerProxy.js" name="PanasonicScannerProxy">
